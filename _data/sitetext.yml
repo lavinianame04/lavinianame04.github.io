@@ -39,7 +39,7 @@ en: &DEFAULT_EN
         icon: fas fa-book-open
       - title: "Comunicação e Projetos em Grupo"
         desc: "Facilidade em me comunicar em público e conduzir projetos coletivos."
-        icon: fas fa-book-open
+        icon: fas fa-comments
 
   portfolio:
     title: "Projetos"
