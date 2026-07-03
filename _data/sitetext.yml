@@ -13,14 +13,13 @@ en: &DEFAULT_EN
   header:
     title: Prazer! Eu sou
     text: LAVÍNIA NAME
-    subtext: "Estudante de Ciência de Dados • Universidade Federal de Viçosa"
     button: Explorar portfólio
     buttonlink: "#about"
 
   about:
     title: "Sobre mim"
     text: "Quem sou?"
-    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação."
+    body: "Sou estudante de graduação do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação."
     section: about
 
   services:
