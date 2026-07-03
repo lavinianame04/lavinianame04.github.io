@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Formação"
       section: timeline
-   - title: Certificados
+    - title: Certificados
       section: certificates
     - title: "Contato"
       section: contact
