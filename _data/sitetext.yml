@@ -65,10 +65,10 @@ en: &DEFAULT_EN
         desc: "Bacharelado em Ciência de Dados."
         image: assets/img/timeline/2.jpg
         alt:
- contact:
-  title: "Contato"
-  text: "Vamos nos conectar!"
-  subtext: "Você pode encontrar mais informações sobre mim nas plataformas abaixo."
+  contact:
+    title: "Contato"
+    text: "Vamos nos conectar!"
+    subtext: "Você pode encontrar mais informações sobre mim nas plataformas abaixo."
 
   section: contact
 
