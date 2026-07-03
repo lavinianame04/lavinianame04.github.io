@@ -88,6 +88,7 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: "https://github.com/lavinianame04"
         icon: "fab fa-github"
+        
 en-001: #English (World)
   <<: *DEFAULT_EN
 en-150: #English (Europe)
