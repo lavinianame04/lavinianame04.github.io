@@ -18,9 +18,9 @@ section h3.section-subheading, .text-muted, p, .timeline-body p, .portfolio-capt
     background-color: #121f38 !important;
 }
 /* Clarear os títulos internos da linha do tempo (Formação) */
-.timeline-heading h4 {
-    color: #ffffff !important;
-}
-.timeline-heading h4.subheading {
+.timeline-heading h4, 
+.timeline-heading h4.subheading,
+.timeline-panel .timeline-heading h4,
+#timeline .timeline-heading h4 {
     color: #ffffff !important;
 }
