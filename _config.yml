@@ -17,7 +17,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Lavínia Name
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : lavinianame@yahoo.com
+Academic email: lavinia.viana@ufv.br #this is also the email contact forms will go to
 description: "Portfólio pessoal"
 author     : Lavínia Name
 # logo:     #optional, defaults to site title
