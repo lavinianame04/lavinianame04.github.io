@@ -17,13 +17,11 @@ en: &DEFAULT_EN
     button: Explorar portfólio
     buttonlink: "#services"
 
-
   about:
     title: "Sobre mim"
     text: "Quem sou?"
-    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos.Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação." 
+    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação." 
     section: about
-
     
   services:
     title: "Habilidades"
@@ -32,7 +30,7 @@ en: &DEFAULT_EN
     list:
       - title: "Análise de Dados"
         desc: "Manipulação, organização e visualização de dados utilizando R e Excel."
-        icon: fas fa-chart-bar #find more at https://fontawesome.com/icons
+        icon: fas fa-chart-bar
       - title: "Programação"
         desc: "Conhecimentos em Python, R e lógica de programação aplicados a atividades acadêmicas."
         icon: fas fa-code
@@ -42,6 +40,7 @@ en: &DEFAULT_EN
       - title: "Comunicação e Projetos em Grupo"
         desc: "Facilidade em me comunicar em público e conduzir projetos coletivos."
         icon: fas fa-book-open
+
   portfolio:
     title: "Projetos"
     text: "Alguns dos projetos desenvolvidos durante minha graduação."
@@ -52,51 +51,43 @@ en: &DEFAULT_EN
     title: "Formação"
     text: "Minha trajetória acadêmica."
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Ensino Médio"
         year: "2023-2025"
         desc: "Colégio Nossa Senhora do Carmo de Viçosa MG."
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: ""
       - title: "Universidade Federal de Viçosa (UFV)"
         year: "2026-atual"
         desc: "Bacharelado em Ciência de Dados."
         image: assets/img/timeline/2.jpg
-        alt:
+        alt: ""
+
   contact:
     title: "Contato"
     text: "Vamos nos conectar!"
     subtext: "Você pode encontrar mais informações sobre mim nas plataformas abaixo."
-
-  section: contact
+    section: contact
 
   people:
-
     - name: "Lavínia Name"
       role: "Estudante de Ciência de Dados • UFV"
       image: assets/img/team/lavinia.jpg
-
       social:
-
-        - url: https://github.com/lavinianame04
+        - url: "https://github.com/lavinianame04"
           icon: fab fa-github
-
-        - url: https://www.linkedin.com/in/lavínia-name
+        - url: "https://www.linkedin.com/in/lavinia-name"
           icon: fab fa-linkedin-in
-
-        - url: lavinia.viana@ufv.br
+        - url: "mailto:lavinia.viana@ufv.br"
           icon: fas fa-envelope
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: www.linkedin.com/in/lavínia-name
+      - url: "https://www.linkedin.com/in/lavínia-name"
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: "https://github.com/lavinianame04"
         icon: "fab fa-github"
-
 en-001: #English (World)
   <<: *DEFAULT_EN
 en-150: #English (Europe)
