@@ -10,7 +10,7 @@
 # English [default] (https://localizely.com/language-code/en/)
 # -----------------
 en: &DEFAULT_EN
-header:
+  header:
     title: Prazer! Eu sou
     text: LAVÍNIA NAME
     subtext: "Estudante de Ciência de Dados • Universidade Federal de Viçosa"
@@ -22,14 +22,14 @@ header:
     text: "Quem sou?"
     body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação."
     section: about
-    
+
   services:
     title: "Habilidades"
     text: "Tecnologias e áreas em que venho desenvolvendo experiência."
     section: services
     list:
       - title: "Análise de Dados"
-        desc: "Manipulação, organização e visualização de dados utilizando R e Excel."
+        desc: "Manipulação, organization e visualização de dados utilizando R e Excel."
         icon: fas fa-chart-bar
       - title: "Programação"
         desc: "Conhecimentos em Python, R e lógica de programação aplicados a atividades acadêmicas."
@@ -76,7 +76,7 @@ header:
       social:
         - url: "https://github.com/lavinianame04"
           icon: fab fa-github
-        - url: "https://www.linkedin.com/in/lavinia-name"
+        - url: "https://www.linkedin.com/in/lavínia-name"
           icon: fab fa-linkedin-in
         - url: "mailto:lavinia.viana@ufv.br"
           icon: fas fa-envelope
