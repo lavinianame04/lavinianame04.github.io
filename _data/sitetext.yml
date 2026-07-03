@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         icon: fas fa-chart-bar
       - title: "Programação"
         desc: "Conhecimentos em Python, R e lógica de programação aplicados a atividades acadêmicas."
-        icon: fas fa-code
+        icon: fas fa-laptop-code
       - title: "Aprendizado Contínuo"
         desc: "Interesse em Ciência de Dados, Estatística e Inteligência Artificial, buscando constantemente novos conhecimentos."
         icon: fas fa-book-open
@@ -55,12 +55,12 @@ en: &DEFAULT_EN
       - title: "Ensino Médio"
         year: "2023-2025"
         desc: "Colégio Nossa Senhora do Carmo de Viçosa MG."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/carmo1.jpg
         alt: ""
       - title: "Universidade Federal de Viçosa (UFV)"
         year: "2026-atual"
         desc: "Bacharelado em Ciência de Dados."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/ufv.jpg
         alt: ""
 
   contact:
