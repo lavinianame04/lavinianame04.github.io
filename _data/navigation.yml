@@ -13,19 +13,24 @@ en: &DEFAULT_EN
   nav:
     - title: "Habilidades"
       section: services
+
     - title: "Portfolio"
       section: portfolio
+
     - title: "Sobre mim"
       section: about
+
     - title: "Formação"
       section: timeline
-    - title: Certificados
+
+    - title: "Certificados"
       section: certificates
+
     - title: "Contato"
       section: contact
+
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
-
 en-001: #English (World)
   <<: *DEFAULT_EN
 en-150: #English (Europe)
