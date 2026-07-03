@@ -11,25 +11,28 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Prazer! Eu sou
+    text: LAVÍNIA NAME
+    <p class="lead text-white">
+     Estudante de Ciência de Dados • Universidade Federal de Viçosa
+     </p>
+    button: Explorar portfólio
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Habilidades"
+    text: "Tecnologias e áreas em que venho desenvolvendo experiência."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Ciência de Dados"
+        desc: "Análise exploratória de dados, estatística e visualização utilizando Python e R."
+        icon: fas fa-chart-bar #find more at https://fontawesome.com/icons
+      - title: "Programação"
+        desc: "Conhecimentos em Python, R e lógica de programação aplicados a atividades acadêmicas."
+        icon: fas fa-code
+      - title: "Aprendizado Contínuo"
+        desc: "Interesse em Ciência de Dados, Estatística e Inteligência Artificial, buscando constantemente novos conhecimentos."
+        icon: fas fa-book-open
 
   portfolio:
     title: "Portfolio"
