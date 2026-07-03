@@ -60,7 +60,7 @@ en: &DEFAULT_EN
       - title: "Universidade Federal de Viçosa (UFV)"
         year: "2026-atual"
         desc: "Bacharelado em Ciência de Dados."
-        image: assets/img/timeline/ufv.jpg
+        image: assets/img/timeline/ufv.png
         alt: ""
 
   contact:
