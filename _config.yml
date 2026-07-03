@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Lavínia Name
 email      : lavinianame@yahoo.com
-Academic email: lavinia.viana@ufv.br #this is also the email contact forms will go to
+academic_email: lavinia.viana@ufv.br #this is also the email contact forms will go to
 description: "Portfólio pessoal"
 author     : Lavínia Name
 # logo:     #optional, defaults to site title
