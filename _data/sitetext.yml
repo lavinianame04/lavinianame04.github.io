@@ -13,9 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Prazer! Eu sou
     text: LAVÍNIA NAME
-    <p class="lead text-white">
-     Estudante de Ciência de Dados • Universidade Federal de Viçosa
-     </p>
+    subtext: "Estudante de Ciência de Dados • Universidade Federal de Viçosa"
     button: Explorar portfólio
     buttonlink: "#services"
 
@@ -23,7 +21,7 @@ en: &DEFAULT_EN
   about:
     title: "Sobre mim"
     text: "Quem sou?"
-    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos.Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação. 
+    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos.Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação." 
     section: about
 
     
@@ -67,7 +65,7 @@ en: &DEFAULT_EN
         desc: "Bacharelado em Ciência de Dados."
         image: assets/img/timeline/2.jpg
         alt:
-  contact:
+ contact:
   title: "Contato"
   text: "Vamos nos conectar!"
   subtext: "Você pode encontrar mais informações sobre mim nas plataformas abaixo."
@@ -85,7 +83,7 @@ en: &DEFAULT_EN
         - url: https://github.com/lavinianame04
           icon: fab fa-github
 
-        - url: https://linkedin.com/in/www.linkedin.com/in/lavínia-name
+        - url: https://www.linkedin.com/in/lavínia-name
           icon: fab fa-linkedin-in
 
         - url: lavinia.viana@ufv.br
