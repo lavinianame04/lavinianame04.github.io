@@ -41,24 +41,3 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
-
-// Forçar Modo Escuro em todas as seções do site
-body, section, .bg-light, #about, #services, #portfolio, #timeline, #contact {
-    background-color: #0b1528 !important;
-}
-
-// Corrigir os títulos principais para branco
-section h2.section-heading, .intro-lead-in, .intro-heading {
-    color: #ffffff !important;
-}
-
-// Corrigir os subtítulos e textos descritivos para um cinza claro elegante
-section h3.section-subheading, .text-muted, p, .timeline-body p, .portfolio-caption h4, .portfolio-caption p {
-    color: #a1b1cc !important;
-}
-
-// Ajustar os blocos do portfólio (da imagem que você mandou) para um azul um pouco mais claro que o fundo
-.portfolio-item .portfolio-caption {
-    background-color: #121f38 !important;
-}
-
