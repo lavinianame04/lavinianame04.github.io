@@ -10,17 +10,17 @@
 # English [default] (https://localizely.com/language-code/en/)
 # -----------------
 en: &DEFAULT_EN
-  header:
+header:
     title: Prazer! Eu sou
     text: LAVÍNIA NAME
     subtext: "Estudante de Ciência de Dados • Universidade Federal de Viçosa"
     button: Explorar portfólio
     buttonlink: "#services"
-    <header class="masthead" style="background-image: url('assets/img/header-bg.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+
   about:
     title: "Sobre mim"
     text: "Quem sou?"
-    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação." 
+    body: "Sou estudante do curso de Ciência de Dados na Universidade Federal de Viçosa (UFV). Tenho um grande interesse na área da Tecnologia e em achar soluções práticas para problemas diversos. Atualmente, estou construindo minha base acadêmica e desenvolvendo projetos para aplicar os conhecimentos adquiridos durante a graduação."
     section: about
     
   services:
